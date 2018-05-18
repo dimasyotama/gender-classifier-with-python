@@ -5,7 +5,7 @@ You must download the modul for machine learning(on code) and imporant thing you
 My suggest use Python 3.6 for updated module
 
 Installing modul on python :
-sudo pop install somemodule
+sudo pip install somemodule
 
 enjoy coding everyone
 
