@@ -1,4 +1,3 @@
-[![PIP Version][PIP-image]][PIP-url]
 # gender-classifier-with-python
 
 This is the result
